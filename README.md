@@ -2,9 +2,13 @@
 Welcome to the CocktailLand! This Flutter application allows users to add, delete, and favorite cocktail cards for easy reference and memorization. It's perfect for cocktail enthusiasts looking to expand their drink repertoire.
 
 ## Screenshots
+<img src="Screenshots/Screenshot_20240729_195546.png" alt="App Screen" width="200"/>
+<img src="Screenshots/Screenshot_20240729_195638.png" alt="App Screen" width="200"/>
+<img src="Screenshots/Screenshot_20240729_195723.png" alt="App Screen" width="200"/>
+<img src="Screenshots/Screenshot_20240729_195734.png" alt="App Screen" width="200"/>
 ![App Display](Screenshots/Screenshot_20240729_195546.png)
 ![App Display1](Screenshots/Screenshot_20240729_195638.png)
-![App Display2](Screenshots/Screenshot_20240729_195723.png
+![App Display2](Screenshots/Screenshot_20240729_195723.png)
 ![App Display3](Screenshots/Screenshot_20240729_195734.png)
 
 ## Installation
